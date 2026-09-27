@@ -6,7 +6,7 @@
     <td width="65%" align="left" valign="middle">
       <h1><code>&lt; Hello wolrd /&gt;</code> 😸</h1>
       <h3><b>Bienvenido a mi perfil de GitHub</b></h3>
-      <p><i>"Eso tilin XD "</i></p>
+      <p><i>"Eso tilin "</i></p>
       <p><b> software
 Developer | Estudiante</b></p>
     </td>
