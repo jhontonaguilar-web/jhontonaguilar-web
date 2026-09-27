@@ -1,7 +1,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="https://e01-elmundo.uecdn.es/elmundo/imagenes/2013/05/06/navegante/1367827309_1.jpg" />
+      <img src="https://i.pinimg.com/originals/26/77/a3/2677a391ece36f2e68c1467a0c37cb5c.gif" />
     </td>
     <td width="65%" align="left" valign="middle">
       <h1><code>&lt; Hello wolrd /&gt;</code> 😸</h1>
