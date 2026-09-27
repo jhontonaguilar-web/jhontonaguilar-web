@@ -1,7 +1,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="https://tr.pinterest.com/simxen/stupid-cats/" />
+      <img src="https://www.elmundo.es/elmundo/2013/05/06/navegante/1367827309.html" />
     </td>
     <td width="65%" align="left" valign="middle">
       <h1><code>&lt; Hello wolrd /&gt;</code> 😸</h1>
