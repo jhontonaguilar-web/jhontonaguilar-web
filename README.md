@@ -1,3 +1,17 @@
+<table border="0" width="100%">
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://static.myfigurecollection.net/upload/pictures/2024/08/10/4106447.gif" height="190" style="border-radius: 10px; object-fit: cover;" alt="Saya" />
+    </td>
+    <td width="65%" align="left" valign="middle">
+      <h1><code>&lt;Hello World /&gt;</code> 🥩</h1>
+      <h3><b>Bienvenido a mi perfil de GitHub</b></h3>
+      <p><i>"Transformando ideas abstractas en software funcional, eficiente y escalable."</i></p>
+      <p><b> Full-Stack Developer | Estudiante</b></p>
+    </td>
+  </tr>
+</table>
+
 ## Neko 🙀
 ![neko](https://e01-elmundo.uecdn.es/elmundo/imagenes/2013/05/06/navegante/1367827309_1.jpg)
 # 💫 About Me:
