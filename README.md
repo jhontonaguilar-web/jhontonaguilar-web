@@ -7,14 +7,14 @@
       <h1><code>&lt;Neko /&gt;</code> 😸</h1>
       <h3><b>Bienvenido a mi perfil de GitHub</b></h3>
       <p><i>"Eso tilin XD "</i></p>
-      <p><b> Full-Stack Developer | Estudiante</b></p>
+      <p><b> software
+Developer | Estudiante</b></p>
     </td>
   </tr>
 </table>
 
 ## Neko 🙀
 # 💫 About Me:
-Bienvenido a mi perfil de Github 😸<br><br>programador/ Estudiante :b
 
 
 # 💻 Tech Stack:
