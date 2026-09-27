@@ -4,7 +4,7 @@
       <img src="https://e01-elmundo.uecdn.es/elmundo/imagenes/2013/05/06/navegante/1367827309_1.jpg" />
     </td>
     <td width="65%" align="left" valign="middle">
-      <h1><code>&lt;Bienvenido /&gt;</code> 😸</h1>
+      <h1><code>&lt; Hello wolrd /&gt;</code> 😸</h1>
       <h3><b>Bienvenido a mi perfil de GitHub</b></h3>
       <p><i>"Eso tilin XD "</i></p>
       <p><b> software
